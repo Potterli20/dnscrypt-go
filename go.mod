@@ -4,10 +4,10 @@ go 1.19
 
 require (
 	github.com/AdguardTeam/golibs v0.10.9
+	github.com/Potterli20/go-flags-fork v0.0.0-20220818030920-be7714ea2a89
 	github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da
 	github.com/aead/poly1305 v0.0.0-20180717145839-3fee0db0b635
 	github.com/ameshkov/dnsstamps v1.0.3
-	github.com/jessevdk/go-flags v1.5.0
 	github.com/miekg/dns v1.1.50
 	github.com/stretchr/testify v1.8.0
 	golang.org/x/crypto v0.0.0-20220817201139-bc19a97f63c8
