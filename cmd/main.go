@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/AdguardTeam/golibs/log"
-	goFlags "github.com/jessevdk/go-flags"
+	goFlags "github.com/Potterli20/go-flags-fork"
 )
 
 // Options - command-line options
