@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/AdguardTeam/golibs/log"
-	"github.com/ameshkov/dnscrypt/v2"
+	"github.com/Potterli20/dnscrypt-go"
 	"golang.org/x/crypto/curve25519"
 	"gopkg.in/yaml.v3"
 )
