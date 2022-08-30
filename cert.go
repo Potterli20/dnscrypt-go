@@ -53,10 +53,15 @@ type Cert struct {
 
 // Serialize serializes the cert to bytes
 // <cert> ::= <cert-magic> <es-version> <protocol-minor-version> <signature>
+<<<<<<< HEAD
 //
 //	<resolver-pk> <client-magic> <serial> <ts-start> <ts-end>
 //	<extensions>
 //
+=======
+// <resolver-pk> <client-magic> <serial> <ts-start> <ts-end>
+// <extensions>
+>>>>>>> aeff5955671d7e1198cd1d388d343d6992232f4c
 // Certificates made of these information, without extensions, are 116 bytes
 // long. With the addition of the cert-magic, es-version and
 // protocol-minor-version, the record is 124 bytes long.
@@ -90,9 +95,14 @@ func (c *Cert) Serialize() ([]byte, error) {
 
 // Deserialize deserializes certificate from a byte array
 // <cert> ::= <cert-magic> <es-version> <protocol-minor-version> <signature>
+<<<<<<< HEAD
 //
 //	<resolver-pk> <client-magic> <serial> <ts-start> <ts-end>
 //	<extensions>
+=======
+// <resolver-pk> <client-magic> <serial> <ts-start> <ts-end>
+// <extensions>
+>>>>>>> aeff5955671d7e1198cd1d388d343d6992232f4c
 func (c *Cert) Deserialize(b []byte) error {
 	if len(b) < 124 {
 		return ErrCertTooShort
