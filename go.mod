@@ -11,7 +11,7 @@ require (
 	github.com/miekg/dns v1.1.50
 	github.com/stretchr/testify v1.8.0
 	golang.org/x/crypto v0.0.0-20220919173607-35f4265a4bc0
-	golang.org/x/net v0.0.0-20220919232410-f2f64ebce3c1
+	golang.org/x/net v0.0.0-20220920203100-d0c6ba3f52d9
 	gopkg.in/yaml.v3 v3.0.1
 )
 
