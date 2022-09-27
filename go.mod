@@ -10,8 +10,8 @@ require (
 	github.com/ameshkov/dnsstamps v1.0.3
 	github.com/miekg/dns v1.1.50
 	github.com/stretchr/testify v1.8.0
-	golang.org/x/crypto v0.0.0-20220924013350-4ba4fb4dd9e7
-	golang.org/x/net v0.0.0-20220923203811-8be639271d50
+	golang.org/x/crypto v0.0.0-20220926161630-eccd6366d1be
+	golang.org/x/net v0.0.0-20220926192436-02166a98028e
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -19,6 +19,6 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
+	golang.org/x/sys v0.0.0-20220926163933-8cfa568d3c25 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 )
