@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AdguardTeam/golibs/log"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/ameshkov/dnsstamps"
 	"github.com/miekg/dns"
 )
