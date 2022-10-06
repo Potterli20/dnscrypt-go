@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.comPotterli20/golibs-fork/log"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/Potterli20/dnscrypt-go"
 	"golang.org/x/crypto/curve25519"
 	"gopkg.in/yaml.v3"
