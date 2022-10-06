@@ -5,6 +5,7 @@ go 1.19
 require (
 	github.com/AdguardTeam/golibs v0.10.9
 	github.com/Potterli20/go-flags-fork v0.0.0-20220830121900-b04db8ab661d
+	github.com/Potterli20/golibs-fork v0.0.0-20221002163001-d678ba574185
 	github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da
 	github.com/aead/poly1305 v0.0.0-20180717145839-3fee0db0b635
 	github.com/ameshkov/dnsstamps v1.0.3

@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Potterli20/golibs-fork/log"
 	"github.com/Potterli20/dnscrypt-go"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/ameshkov/dnsstamps"
 	"github.com/miekg/dns"
 )

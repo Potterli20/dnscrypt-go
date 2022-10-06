@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/Potterli20/golibs-fork/log"
 	goFlags "github.com/Potterli20/go-flags-fork"
+	"github.com/Potterli20/golibs-fork/log"
 )
 
 // Options - command-line options

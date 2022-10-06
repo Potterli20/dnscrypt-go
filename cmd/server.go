@@ -6,8 +6,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/Potterli20/golibs-fork/log"
 	"github.com/Potterli20/dnscrypt-go"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/miekg/dns"
 	"gopkg.in/yaml.v3"
 )
