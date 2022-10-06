@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/AdguardTeam/golibs/log"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/Potterli20/dnscrypt-go"
 	"gopkg.in/yaml.v3"
 )
