@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/AdguardTeam/golibs/log"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/miekg/dns"
 )
 
