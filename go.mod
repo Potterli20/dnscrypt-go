@@ -10,8 +10,8 @@ require (
 	github.com/ameshkov/dnsstamps v1.0.3
 	github.com/miekg/dns v1.1.50
 	github.com/stretchr/testify v1.8.0
-	golang.org/x/crypto v0.0.0-20221010152910-d6f0a8c073c2
-	golang.org/x/net v0.0.0-20221004154528-8021a29435af
+	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a
+	golang.org/x/net v0.0.0-20221012135044-0b7e1fb9d458
 	gopkg.in/yaml.v3 v3.0.1
 )
 
