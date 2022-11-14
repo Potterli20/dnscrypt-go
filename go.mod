@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Potterli20/go-flags-fork v0.0.0-20220830121900-b04db8ab661d
-	github.com/Potterli20/golibs-fork v0.0.0-20221029043257-ff40c230cc7d
+	github.com/Potterli20/golibs-fork v0.0.0-20221114021025-12499a91a8f7
 	github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da
 	github.com/aead/poly1305 v0.0.0-20180717145839-3fee0db0b635
 	github.com/ameshkov/dnsstamps v1.0.3
