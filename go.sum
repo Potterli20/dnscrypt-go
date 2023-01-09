@@ -2,6 +2,8 @@ github.com/Potterli20/go-flags-fork v0.0.0-20220830121900-b04db8ab661d h1:Ew1oBj
 github.com/Potterli20/go-flags-fork v0.0.0-20220830121900-b04db8ab661d/go.mod h1:HEXHZyexNJLnms5zH4/bBXUUDqXfXcclGNoFGj1wGA0=
 github.com/Potterli20/golibs-fork v0.0.0-20221212021745-06a20137125a h1:EqscRezMqtV0qYbagMo2crdiYhT8VhVUYDXi+Xl9EFw=
 github.com/Potterli20/golibs-fork v0.0.0-20221212021745-06a20137125a/go.mod h1:/vE24eZmaqKttSvQ7u/NcKG98dMPIpsoALHey5a3Zlo=
+github.com/Potterli20/golibs-fork v0.0.0-20230109021718-80d79b3f3b8b h1:KYM5Kz49AJSFNhOeiD1y+PYOSPskrd2dMGCZ/983Im8=
+github.com/Potterli20/golibs-fork v0.0.0-20230109021718-80d79b3f3b8b/go.mod h1:hFpRVMkn7pYG91D/u3iFJ8B4nxnDUHqT4dJioQTvjA0=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da h1:KjTM2ks9d14ZYCvmHS9iAKVt9AyzRSqNU1qabPih5BY=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da/go.mod h1:eHEWzANqSiWQsof+nXEI9bUVUyV6F53Fp89EuCh2EAA=
 github.com/aead/poly1305 v0.0.0-20180717145839-3fee0db0b635 h1:52m0LGchQBBVqJRyYYufQuIbVqRawmubW3OFGqK1ekw=
